@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AppTextInput /> renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#d3d3d3",
+      "borderRadius": 25,
+      "flexDirection": "row",
+      "marginVertical": 10,
+      "padding": 10,
+      "paddingLeft": 15,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "color": "#0c0c0c",
+        "fontFamily": "Avenir",
+        "fontSize": 18,
+      }
+    }
+    underlineColorAndroid="transparent"
+  />
+</View>
+`;
